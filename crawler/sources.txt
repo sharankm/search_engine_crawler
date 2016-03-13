@@ -1,0 +1,5 @@
+C:\UCR\CS172IntroToIR\WebCrawler\src\Crawler.java
+C:\UCR\CS172IntroToIR\WebCrawler\src\HtmlParser.java
+C:\UCR\CS172IntroToIR\WebCrawler\src\RobotReader.java
+C:\UCR\CS172IntroToIR\WebCrawler\src\SeedFileReader.java
+C:\UCR\CS172IntroToIR\WebCrawler\src\SeedManager.java
